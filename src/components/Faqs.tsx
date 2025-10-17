@@ -51,7 +51,7 @@ export function Accordion() {
 
     return (
         <div className="w-full">
-            <h2 className="text-[24px] md:text-[32px] lg:text-[36px] font-bold text-center mb-6">
+            <h2 className="text-[24px]  md:text-[32px] lg:text-[36px] font-bold text-center mb-6">
                 Frequently Asked Questions
             </h2>
 
